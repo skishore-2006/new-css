@@ -1,0 +1,21 @@
+.parent{
+    height: 500px;
+    width: 500px;
+    border: 1px solid black;
+    margin-left: 300px;
+    background-color: rgb(192, 119, 66);
+}
+.child{
+    height: 200px;
+    width: 200px;
+    border: 1px dashed red;
+    margin: 150px 150px 150px 150px;
+ background-color: rgb(236, 180, 159);
+
+}
+.A{
+    margin:50px 50px 50px 50px ;
+}
+.s{
+    background-color: bisque;
+}
