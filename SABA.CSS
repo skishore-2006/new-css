@@ -1,0 +1,65 @@
+.a{
+    font-size: 50px;
+    position: relative;
+    left: 100px;
+    color: red;
+}
+.D{
+    font-size: 50px;
+    position: absolute;
+    top: 500px;
+    left: 1000px;
+    color: white;
+}
+.f{
+    font-size: 50px;
+    position: absolute;
+    top: 570px;
+    left: 1020px;
+    color: white;
+}
+.g{
+    font-size: 35px;
+    position:absolute;
+    top:630px;
+    left: 1032px;
+    color: white;
+}
+.t{
+    font-size:25px ;
+    position: absolute;
+    top: 700px;
+    left: 900px;
+    color: white;
+}
+.e{
+   height: 75px;
+   width: 400px;
+    position: absolute;
+    top: 750px;
+    left: 900px;
+}
+.z{
+position: absolute;
+left: 2000px;
+
+
+}
+.q{
+    color: white;
+    font-size: 25px;
+    height: 80px;
+    width: 200px;
+     position: absolute;
+     top: 750px;
+     left: 1310px;
+     background-color: rgb(255, 0, 0);
+}
+.o{
+    background-image: url(https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+
+}
